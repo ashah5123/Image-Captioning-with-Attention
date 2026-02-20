@@ -108,7 +108,3 @@ The model was trained for 25 epochs. Loss decreased steadily from **4.23 → 2.1
 
 - Xu et al., *"Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"* (2015)
 - Flickr8k Dataset — Hodosh et al. (2013)
-
-## License
-
-This project is for educational/academic purposes (Minor Project).
